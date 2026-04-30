@@ -62,7 +62,7 @@ Analyze the quality, accuracy, and depth of the generated responses.
 * Compare strengths, weaknesses, and best-fit scenarios.
 
 ## Output
-
+[prompt ex-2.pdf](https://github.com/user-attachments/files/27230731/prompt.ex-2.pdf)
 
 ## Result
 This experiment demonstrates that the way a prompt is structured strongly impacts the output of Generative AI systems. Broad prompts → produce vague, shallow, and sometimes irrelevant responses. Instructional, Role-based, and CoT prompts → significantly improve accuracy, depth, and clarity. Few-shot prompting adds adaptability, while zero-shot is useful for quick queries.
